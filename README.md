@@ -32,6 +32,7 @@ public class MainActivity extends Activity {
 }
 
 2.XMl
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:shiji="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
