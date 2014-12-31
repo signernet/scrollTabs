@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="ScrollTabs">
+        <attr name="selectedTextColor" format="color|reference"></attr>
+        <attr name="selectedTextSize" format="dimension"></attr>
+        <attr name="textColor" format="color|reference"></attr>
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="needCursor" format="boolean"></attr>
+        <attr name="tabMinWidth" format="dimension"></attr>
+    </declare-styleable>
+</resources>
