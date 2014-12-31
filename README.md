@@ -7,7 +7,7 @@ Simple Example
 Download the scrollTabs and import into eclipse.add to you progect as an libary.
 
 1.Activity
-
+```java
 public class MainActivity extends Activity {
 	
 	private ScrollTabs mScrollTabs;
@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 
 
 }
-
+```
 2.XMl
 
 ```xml
