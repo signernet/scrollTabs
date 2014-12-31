@@ -7,6 +7,7 @@ Simple Example
 Download the scrollTabs and import into eclipse.add to you progect as an libary.
 
 1.Activity
+
 public class MainActivity extends Activity {
 	
 	private ScrollTabs mScrollTabs;
@@ -33,6 +34,7 @@ public class MainActivity extends Activity {
 
 2.XMl
 
+```xml
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:shiji="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -56,3 +58,4 @@ public class MainActivity extends Activity {
 	    />
 	    
 </LinearLayout>
+```
