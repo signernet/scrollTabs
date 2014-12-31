@@ -1,8 +1,8 @@
 scrollTabs
 ==========
 
-A scroll tabs that you can use easily
-<img src="https://cloud.githubusercontent.com/assets/8369164/5586317/beee0bf8-9104-11e4-9053-5419d52babf6.png"/>
+A scroll tabs that you can use easily</br>
+<img src="https://cloud.githubusercontent.com/assets/8369164/5586317/beee0bf8-9104-11e4-9053-5419d52babf6.png"/></br>
 Simple Example
 Download the scrollTabs and import into eclipse.add to you progect as an libary.
 
